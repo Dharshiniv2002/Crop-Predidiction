@@ -1,4 +1,4 @@
-# Tri-NIT
+# Crop Prediction
 Instructions for Running the Program:
 
 1. Run the program in the compiler with the command: streamlit run "Final.py" or streamlit run Final.py
